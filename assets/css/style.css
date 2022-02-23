@@ -1142,6 +1142,7 @@ select::placeholder { color: #ffffff; }
 }
 .portfolio-area .portfolio-item .portfolio-inner-content .item-img-holder img{
     width: 100%;
+    height: 280px;
     transition: .5s ease;
 }
 .portfolio-area .portfolio-item:hover .portfolio-inner-content .item-img-holder img{
@@ -2081,14 +2082,14 @@ ul.minicart .cart-img img {
 }
 
 .change-position.product-filter-nav{
-    position: fixed;
+   /* position: fixed;
     left: 0;
     right: 0;
     top: 83px;
     background: linear-gradient(to right,#fc2547 50%, #ff5a00 100%);
     animation: .8s fadeIn;
     padding-top: 0;
-    z-index: 11;
+    z-index: 11;*/
 }
 .change-position.filter-form .main-btn{
     /*padding: 15px 35px;*/
